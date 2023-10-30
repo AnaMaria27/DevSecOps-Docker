@@ -18,9 +18,9 @@ A seguir se encontra os links para o acesso a atividade desenvolvida.
 
 ## Atividade sobre Docker e AWS
 
-[Documentação da Atividade ](Documentação_Docker.pdf)
+[Documentação da Atividade ](Documentacao/Documentação_Docker.pdf)
 
-[Script user_data.sh](user_data.sh)
+[Script user_data.sh](Script/user_data.sh)
 
 [Arquivo do Docker Compose](https://github.com/AnaMaria27/DevSecOps-Docker/blob/main/Arquivos%20Docker/docker-compose.yml)
 
